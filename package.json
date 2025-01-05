@@ -1,6 +1,6 @@
 {
   "name": "@uwx/create-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example starter template tool",
   "type": "module",
   "bin": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/uwx/uwx-create-template.git"
   },
-  "files": ["template", "index.js"],
+  "files": [
+    "template",
+    "index.js"
+  ],
   "keywords": [
     "template"
   ],
