@@ -1,4 +1,8 @@
 {
-  "name": "project-name",
-  "version": "1.0.0"
+    "name": "project-name",
+    "type": "module",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@biomejs/biome": "1.9.4"
+    }
 }
